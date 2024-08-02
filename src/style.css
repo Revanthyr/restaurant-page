@@ -1,0 +1,19 @@
+#content{
+    font-size: 1.5rem;
+}
+body{
+    height:100vh;
+}
+.homepage-main{
+    display:flex;
+    flex-direction: column;
+    width:50%;
+    margin:auto;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.homepage-main img{
+    height:400px;
+    width:400px;
+}
